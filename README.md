@@ -1,3 +1,5 @@
+#Failure prediction for machines in a Google cluster: scripts
+
 This repository contains the scripts used to perform the data analysis presented in the paper 
 
 Towards Data-Driven Autonomics in Data Centers 
